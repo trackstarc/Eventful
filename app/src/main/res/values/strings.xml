@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="AddNote">+</string>
+    <string name="title">Title</string>
+    <string name="priority">Priority</string>
+    <string name="date">Date</string>
+    <string name="note">Note</string>
+    <string name="todo">TODO</string>
+    <string name="confirm_changes">Confirm Changes</string>
+    <string name="set_importance_priority_1_3">Set Importance Priority (1 - 3)</string>
+    <string name="enter_note">Enter Note</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="delete_note">Delete Note</string>
+
+    <string-array name="Title">
+        <item>Note1</item>
+        <item>Note2</item>
+        <item>Note3</item>
+        <item>Note4</item>
+        <item>Note5</item>
+        <item>Note6</item>
+        <item>Note7</item>
+        <item>Note8</item>
+        <item>Note9</item>
+        <item>Note10</item>
+        <item>Note11</item>
+    </string-array>
+
+    <string-array name="Date">
+        <item>01/01/2021</item>
+        <item>02/02/2021</item>
+        <item>03/03/2021</item>
+        <item>04/04/2021</item>
+        <item>05/05/2021</item>
+        <item>06/06/2021</item>
+        <item>07/07/2021</item>
+        <item>08/08/2021</item>
+        <item>09/09/2021</item>
+        <item>10/10/2021</item>
+        <item>11/11/2021</item>
+    </string-array>
+
+    <string-array name="Note">
+        <item>Empty Description 1</item>
+        <item>Empty Description 2</item>
+        <item>Empty Description 3</item>
+        <item>Empty Description 4</item>
+        <item>Empty Description 5</item>
+        <item>Empty Description 6</item>
+        <item>Empty Description 7</item>
+        <item>Empty Description 8</item>
+        <item>Empty Description 9</item>
+        <item>Empty Description 10</item>
+        <item>Empty Description 11</item>
+    </string-array>
+
+    <string-array name="Priority">
+        <item>!</item>
+        <item>!</item>
+        <item>!!</item>
+        <item>!!</item>
+        <item>!!!</item>
+        <item>!!!</item>
+        <item>!</item>
+        <item>!</item>
+        <item>!!</item>
+        <item>!!!</item>
+        <item>!!</item>
+    </string-array>
+
+</resources>
